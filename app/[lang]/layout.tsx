@@ -26,6 +26,10 @@ export default function RootLayout({
     return (
         <html lang={params.lang.slice(0, 2)}>
             <head>
+                <Script
+                    type="text/javascript"
+                    src="//cdn.cookie-script.com/s/122ba1390704f0bacef519b943b3d79e.js"
+                ></Script>
                 <Script src="https://www.googletagmanager.com/gtag/js?id=G-KD0WKDHQ4H" />
                 <Script id="google-analytics">
                     {`
