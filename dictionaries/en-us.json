@@ -1,0 +1,21 @@
+{
+    "navigation": {
+        "home": "Startseite",
+        "about": "Über"
+    },
+    "language": {
+        "en-us": "English",
+        "da-dk": "Danish",
+        "nb-no": "Norwegian"
+    },
+    "page": {
+        "home": {
+            "title": "Willkommen bei NextJs i18n",
+            "description": "Internationalisierung im NextJs 13 App-Router"
+        },
+        "about": {
+            "title": "Über uns",
+            "description": "Dies ist die About-Seite"
+        }
+    }
+}
